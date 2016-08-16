@@ -1,0 +1,4 @@
+{filterOptions: {markdownIt: {plugins: [
+	'markdown-it-toc-and-anchor',
+	require('markdown-it-link-target').default
+]}}}
