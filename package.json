@@ -11,7 +11,7 @@
   "devDependencies": {
     "jstransformer-markdown-it": "^0.2.3",
     "markdown-it-link-target": "^1.0.1",
-    "markdown-it-toc-and-anchor": "^4.1.1",
+    "markdown-it-table-of-contents": "^0.2.0",
     "pug-cli": "^1.0.0-alpha6"
   }
 }

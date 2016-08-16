@@ -6,7 +6,7 @@ html
 		meta(name='viewport' content='width=device-width, initial-scale=1.0')
 		script(async src='')
 	body
-		:markdown-it
+		:markdown-it(plugins=['markdown-it-table-of-contents', 'markdown-it-link-target'])
 			[google](http://google.com)
-			@[toc]
+			[[toc]]
 			## h
