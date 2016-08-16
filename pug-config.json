@@ -1,6 +1,0 @@
-{
-markdownItPlugins: [
-	require('markdown-it-toc-and-anchor').default,
-	'markdown-it-link-target'
-]
-}
