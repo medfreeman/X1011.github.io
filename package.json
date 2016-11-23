@@ -9,6 +9,7 @@
   },
   "license": "UNLICENSED",
   "devDependencies": {
+    "jstransformer-babel": "^2.1.0",
     "pug-cli": "^1.0.0-alpha6"
   }
 }
